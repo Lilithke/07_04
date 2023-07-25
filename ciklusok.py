@@ -18,7 +18,7 @@ def nyoc_kil():
 
 def kilencven():
     # Nem negatív egész számról határozza meg a program, hogy hány jegyű!
-    #ROSSZ!!!!!!
+    
 
     szam=int(input("Kérek egy nem negatív egész számot: "))
 
